@@ -1,11 +1,14 @@
 # Mapping_Earthquakes
 
+## Overview
+Gather earthquake data from USGI API to create interactive maps.  
 
+### Street View
 
-![street.png](Earchquake_Challenge\images/street.png)  
+![street.png](Earchquake_Challenge/images/street.png)  
 
- 
-![satellite.png](Earchquake_Challenge\images/satellite.png)  
+### Satellite View with Major Quakes 
+![satellite.png](Earchquake_Challenge/images/satellite.png)  
 
- 
-![dark.png](Earchquake_Challenge\images/dark.png)  
+### Dark View 
+![dark.png](Earchquake_Challenge/images/dark.png)  
